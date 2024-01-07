@@ -1,3 +1,6 @@
 data/*
 
+text classification/data/*
+
 word2vec_model.model
+
